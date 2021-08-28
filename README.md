@@ -9,5 +9,7 @@ The areas covered with this project are:
   Interaction with DOM
   Forms
   
+Boostrap has been used for the design of the webpage.
+
 This page can be viewed in the following URL:
 https://alberolimpica.github.io/JS_Quiz/
