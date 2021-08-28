@@ -8,3 +8,6 @@ The areas covered with this project are:
   Control flow basics
   Interaction with DOM
   Forms
+  
+This page can be viewed in the following URL:
+https://alberolimpica.github.io/JS_Quiz/
